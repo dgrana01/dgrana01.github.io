@@ -125,4 +125,9 @@ body {
 	font-family: 'Special Elite', cursive;
 }
 
+@media screen and (max-width: 800px) {
+	img {
+		display: none;
+	}
+}
 	
